@@ -1,6 +1,6 @@
 # 🔍 Bug Bounty Recon Automation Script
 
-## Description (English)
+## Description
 
 Automated reconnaissance script for bug bounty hunters that streamlines the entire discovery process. This tool orchestrates multiple industry-standard security tools in an optimized workflow to identify subdomains, verify live hosts, crawl websites, extract URLs, and detect potentially vulnerable parameters.
 
@@ -16,7 +16,7 @@ Automated reconnaissance script for bug bounty hunters that streamlines the enti
 
 ---
 
-## Descripción (Español)
+## Descripción
 
 Script automatizado de reconocimiento para bug bounty hunters que optimiza todo el proceso de descubrimiento. Esta herramienta orquesta múltiples herramientas de seguridad estándar de la industria en un flujo de trabajo optimizado para identificar subdominios, verificar hosts activos, rastrear sitios web, extraer URLs y detectar parámetros potencialmente vulnerables.
 
